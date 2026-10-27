@@ -3,3 +3,10 @@ pwd - Bulunulan dizini gosterir
 cd - Klasor degistirir
 mkdir - Klasor olusturur
 touch - Dosya olusturur
+
+Hafta 2 - Git Komutlari
+git status - Dosyalarin durumunu gosterir
+git add - Dosyalari staging alanina ekler
+git commit - Degisiklikleri kaydeder
+git log - Commit gecmisini gosterir
+git branch - Branchleri listeler
