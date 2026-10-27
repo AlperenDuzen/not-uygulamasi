@@ -1,0 +1,5 @@
+ls - Dosyalari listeler
+pwd - Bulunulan dizini gosterir
+cd - Klasor degistirir
+mkdir - Klasor olusturur
+touch - Dosya olusturur
